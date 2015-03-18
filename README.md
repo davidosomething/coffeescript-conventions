@@ -115,7 +115,7 @@ class MyClass
 
   isVisible: true
 
-  hideLis: (domElements = [])->
+  hideLis: ->
     return if @isVisible
 
     $('li').each ->
