@@ -123,6 +123,7 @@ class MyClass
                       # a different context
 
     return
+```
 
 ### Function arguments
 
