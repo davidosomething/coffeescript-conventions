@@ -110,7 +110,7 @@ myLongerText = [
 ```
 
 - Use `@` for `this`, except where its context changes:
-```
+```CoffeeScript
 class MyClass
 
   isVisible: true
